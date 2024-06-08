@@ -41,5 +41,8 @@ function verificar() {
         btnJuegos.disabled = true;
     }
 }
-
+function ir()
+{
+    window.location = "juegos.html";
+}
 
